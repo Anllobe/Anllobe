@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @andonillona
-- 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on a project that gives me the opportunity to learn and train as a FrontEnd web developer
+- Passionate about technology and programming, I am seeking opportunities to apply my knowledge and skills. Despite lacking work experience in the field, I have dedicated   myself to academic training and am constantly learning to achieve my goal. My focus is on web development and application programming, and I hope to contribute to the   growth of an innovative company in the technology sector. Let's connect and discuss how I can add value to your team!
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 💞️ I’m looking to collaborate on a project that gives me the opportunity to learn and train as a web developer.
 - 📫 How to reach me: andoni_llona@hotmail.com / +34 622124321
-
-<!---
-andonillona/andonillona is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
