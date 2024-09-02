@@ -1,6 +1,18 @@
-- 👋 Hi, I’m @andonillona
-- Passionate about technology and programming, I am seeking opportunities to apply my knowledge and skills. Despite lacking work experience in the field, I have dedicated   myself to academic training and am constantly learning to achieve my goal. My focus is on web development and application programming, and I hope to contribute to the   growth of an innovative company in the technology sector. Let's connect and discuss how I can add value to your team!
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML, CSS and Javascript.
-- 💞️ I’m looking to collaborate on a project that gives me the opportunity to learn and train as a web developer.
-- 📫 How to reach me: andoni_llona@hotmail.com / +34 622124321
+👋 Hi there! I'm Andoni Llona
+I'm a Junior Front-End Developer passionate about building beautiful and functional user interfaces. Based in Elche, Spain, I'm starting my journey in web development with a focus on HTML, CSS, JavaScript, Tailwind CSS, and Svelte.
+
+🚀 About Me
+I'm dedicated to continuously improving my skills and staying updated with the latest trends in front-end development. I enjoy tackling new challenges, learning new technologies, and finding efficient solutions to enhance user experiences.
+
+🌐 Technologies I Work With:
+HTML5
+CSS3
+JavaScript
+Tailwind CSS
+Svelte
+
+📫 Contact Me
+I'm always open to new opportunities and collaborations. If you're interested in working together or just want to chat about tech, feel free to reach out:
+
+GitHub: andonillona
+Looking forward to connecting with you!
